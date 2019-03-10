@@ -1,0 +1,22 @@
+Steps:
+
+1) Onboarding
+	- what it is
+	- how to customize
+	- how to use
+
+2) Customization
+	- number of prizes
+	- info for each prize (name, stock count, image, slice color)
+	- color customization (?)
+	- behaviour customization (?)
+
+3) Main screen
+	- wheel
+	- stock info
+	- settings, reset
+
+4) Settings
+	- add/remove prizes
+	- change stocks
+	- change colors
